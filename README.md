@@ -4,17 +4,17 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 **LLM-Powered Router** — routes questions to relevant documents automatically
-- 🧠 **Retriever + Pinecone Index** — fetches top-matching document chunks
-- 🤖 **Reasoning Agent** — answers questions using context with precision
-- ⚖️ **Compliance Checker** — flags sensitive content (e.g. "confidential")
-- 📚 **Multi-source Retrieval** — combines context across HR, Security, Sales & SOPs
+- **LLM-Powered Router** — routes questions to relevant documents automatically
+- **Retriever + Pinecone Index** — fetches top-matching document chunks
+- **Reasoning Agent** — answers questions using context with precision
+- ⚖**Compliance Checker** — flags sensitive content (e.g. "confidential")
+- **Multi-source Retrieval** — combines context across HR, Security, Sales & SOPs
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```bash
 altura-policy-agent/
@@ -98,7 +98,7 @@ Then ask a question like:
 
 ---
 
-## 🧪 Sample Questions
+## Sample Questions
 
 - "What is the exit process for confirmed employees?"
 - "What are the conditions for remote work and device compliance?" *(multi-doc)*
@@ -107,7 +107,7 @@ Then ask a question like:
 
 ---
 
-## 🔐 Notes
+## Notes
 - This system is for **internal use only**.
 - Answers are grounded in internal AlturaTech documents.
 - Compliance checks are advisory; enforcement logic can be expanded.
