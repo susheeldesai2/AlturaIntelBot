@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-groq
+sentence-transformers
+pinecone
+beautifulsoup4
+requests
+PyMuPDF
+python-dotenv
