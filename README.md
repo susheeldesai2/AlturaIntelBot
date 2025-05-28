@@ -1,4 +1,4 @@
-# 🛡️ AlturaPolicyAgent
+# 🛡️ AlturaIntelBot
 
 **AlturaPolicyAgent** is a multi-agent, LLM-powered internal assistant designed to help AlturaTech employees query internal documents like HR handbooks, security protocols, SOPs, and sales playbooks. It uses intelligent document routing, vector search, and reasoning to deliver grounded, policy-aligned answers.
 
