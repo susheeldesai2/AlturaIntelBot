@@ -9,7 +9,7 @@
 - **LLM-Powered Router** — routes questions to relevant documents automatically
 - **Retriever + Pinecone Index** — fetches top-matching document chunks
 - **Reasoning Agent** — answers questions using context with precision
-- ⚖**Compliance Checker** — flags sensitive content (e.g. "confidential")
+- **Compliance Checker** — flags sensitive content (e.g. "confidential")
 - **Multi-source Retrieval** — combines context across HR, Security, Sales & SOPs
 
 ---
